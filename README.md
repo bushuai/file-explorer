@@ -1,3 +1,3 @@
 # file-explorer
 
-From Javascript Everywhere (Chapter 5)
+From SMASHING Node.js:Javascript Everywhere (Chapter 5)
